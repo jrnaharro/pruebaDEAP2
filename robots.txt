@@ -1,0 +1,13 @@
+User-agent: * 
+Disallow: /administracion/
+Disallow: /comun/
+Disallow: /editor/
+Disallow: /Imagenes/
+Disallow: /logs/
+Disallow: /menu/
+Disallow: /actividadescalendario.php
+Disallow: /calendario.php
+Disallow: /conexion.php
+
+
+

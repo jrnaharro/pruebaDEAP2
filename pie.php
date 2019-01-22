@@ -1,0 +1,3 @@
+<a href="mailto:comunicacion@diocesiscoriacaceres.es" style="color:#FFF">Delegaci&oacute;n de Medios de Comunicaci&oacute;n Social</a>&nbsp;|&nbsp;<a href="/AvisoLegal.php" target="_self" style="color:#FFF">Info Legal</a>&nbsp;|&nbsp;<a href="mailto:webmaster@diocesiscoriacaceres.com" style="color:#FFF">Webmaster</a><br>
+Casa de la Iglesia. C/ General Ezponda, 14; 10003 C&aacute;ceres. Tlf. (+34) 927 62 73 38<br>
+<a href="mailto:obcoriacaceres@planalfa.es" style="color:#FFF">Obispado de Coria-C&aacute;ceres</a>. Pza. de Santa Mar&iacute;a, 1; 10003 C&aacute;ceres. Tlf. (+34) 927 24 52 50

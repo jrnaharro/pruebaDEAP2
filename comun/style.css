@@ -1,0 +1,109 @@
+a:link      		{ text-decoration: none; color:#301CA5; }
+a:visited   		{ text-decoration: none; color:#301CA5; }
+a:hover     		{ text-decoration: underline;}
+a:active			{ text-decoration: none;}
+h1 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+.titulo {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+}
+.titulodelegaciones {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:24px;
+	font-weight:bold;
+}
+.pie {
+	font-family:Comic Sans MS;
+	font-size: 12px;
+	color:#FFF;
+	text-align:center;
+	background-color:#301CA5;
+}
+.siguenos {
+	font:"Comic Sans MS", cursive;
+	font-size: 24px;
+	color:white;
+}
+.textomas {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+}
+.textonoticias {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	text-align:justify;
+}
+.textogrande {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13.5px;
+	font-style: normal;
+	text-align:justify;
+}
+.textofecha {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	font-weight: bold;
+}
+.titulocal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: white;
+}
+.nombredias {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+.dias {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: white;
+	text-align: center;
+}
+.diasactivos {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: red;
+	text-align: center;
+}
+.diaactual {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: black;
+	text-align: center;
+}
+.actividadescal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight:bold;	
+	color: black;
+	background-color: #B7CEE2;
+}
+.seccionesmateriales{
+	font-family:"Comic Sans MS", cursive;
+	color:#009;		
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+}
+.flechassigsants{
+	cursor:pointer;
+	font-size:18px;
+	color:#301CA5;	
+}
+.cuentaatras {
+	font-family:Comic Sans MS;
+	font-size: 17px;
+	text-shadow: 0.1em 0.1em 0.2em black;
+	color:#FF0;
+	text-align:center;
+}
